@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 07 21:07:34 CEST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1530990454206
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc7\:jar\:javadoc\:12.1.0.3 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
